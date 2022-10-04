@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Proposal"] 1664832377 "Proposal.aux" "Proposal.bbl" "Proposal" 1664832379
+["bibtex Proposal"] 1664921382 "Proposal.aux" "Proposal.bbl" "Proposal" 1664921384
   "../manuscript/refs.bib" 0 -1 0 ""
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "Proposal.aux" 1664832378 1377 bf1268735d35730f413a9d8405a1fd2c "pdflatex"
+  "Proposal.aux" 1664921383 1346 f6c684c6c42747bb48bce498236ece47 "pdflatex"
   (generated)
   "Proposal.bbl"
   "Proposal.blg"
-["pdflatex"] 1664832377 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1664832379
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1664832376 859 ad1c43b4ba4596c01cb6d77dc8366c55 ""
+["pdflatex"] 1664921382 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1664921384
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1664921380 971 36e5bca6a3cd8de4cdd5dbef9b972636 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -79,10 +79,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664467243 2826443 e9f15c3f92c28835fa0aacd7b4063307 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Proposal.aux" 1664832378 1377 bf1268735d35730f413a9d8405a1fd2c "pdflatex"
+  "Proposal.aux" 1664921383 1346 f6c684c6c42747bb48bce498236ece47 "pdflatex"
   "Proposal.bbl" 0 -1 0 "bibtex Proposal"
   "Proposal.out" 0 -1 0 "pdflatex"
-  "Proposal.tex" 1664832376 859 ad1c43b4ba4596c01cb6d77dc8366c55 ""
+  "Proposal.tex" 1664921380 971 36e5bca6a3cd8de4cdd5dbef9b972636 ""
   (generated)
   "Proposal.aux"
   "Proposal.log"
