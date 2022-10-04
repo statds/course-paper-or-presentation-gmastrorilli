@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Proposal"] 1664922027 "Proposal.aux" "Proposal.bbl" "Proposal" 1664922027
+["bibtex Proposal"] 1664927836 "Proposal.aux" "Proposal.bbl" "Proposal" 1664927836
   "../manuscript/refs.bib" 0 -1 0 ""
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
   "Proposal.aux" 1664921944 1346 f6c684c6c42747bb48bce498236ece47 "pdflatex"
   (generated)
   "Proposal.bbl"
   "Proposal.blg"
-["pdflatex"] 1664921942 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1664922027
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1664922026 1804 1d0b4fe5f769591f61a4244a2dd2af06 ""
+["pdflatex"] 1664921942 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1664927836
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1664927833 1804 1d0b4fe5f769591f61a4244a2dd2af06 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -82,7 +82,7 @@
   "Proposal.aux" 1664921944 1346 f6c684c6c42747bb48bce498236ece47 "pdflatex"
   "Proposal.bbl" 0 -1 0 "bibtex Proposal"
   "Proposal.out" 0 -1 0 "pdflatex"
-  "Proposal.tex" 1664922026 1804 1d0b4fe5f769591f61a4244a2dd2af06 ""
+  "Proposal.tex" 1664927833 1804 1d0b4fe5f769591f61a4244a2dd2af06 ""
   (generated)
   "Proposal.aux"
   "Proposal.log"
