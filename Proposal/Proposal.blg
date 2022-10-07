@@ -1,8 +1,16 @@
 This is BibTeX, Version 0.99d (TeX Live 2022)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Proposal.aux
+White space in argument---line 19 of file Proposal.aux
+ : \citation{gross
+ :                 domestic product | u.s. bureau of economic analysis (bea)_2022}
+I'm skipping whatever remains of this command
 The style file: chicago.bst
 Database file #1: refrences.bib
+I was expecting a `,' or a `}'---line 21 of file refrences.bib
+ :  @misc{gross 
+ :              domestic product | u.s. bureau of economic analysis (bea)_2022,
+I'm skipping whatever remains of this entry
 You've used 1 entry,
             2861 wiz_defined-function locations,
             620 strings with 5001 characters,
@@ -44,3 +52,4 @@ warning$ -- 0
 while$ -- 12
 width$ -- 0
 write$ -- 15
+(There were 2 error messages)
