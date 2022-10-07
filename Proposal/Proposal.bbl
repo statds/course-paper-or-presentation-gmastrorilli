@@ -1,15 +1,22 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Bureau~of Economic~Analysis}{Bureau~of
+  Economic~Analysis}{2022}]{bea}
+Bureau~of Economic~Analysis, B. (2022).
+\newblock Gross domestic product.
+\newblock {\em U.S. Bureau of Economic Analysis (BEA)\/}~{\em
+  https://www.bea.gov/data/gdp/gross-domestic-product}.
+
 \bibitem[\protect\citeauthoryear{Divya and Devi}{Divya and
   Devi}{2014}]{divya2014study}
 Divya, K.~H. and V.~R. Devi (2014).
 \newblock A study on predictors of gdp: Early signals.
 \newblock {\em Procedia Economics and Finance\/}~{\em 11}, 375--382.
 
-\bibitem[\protect\citeauthoryear{of~Economic~Analysis}{of~Economic~Analysis}{2022}]{bea}
-of~Economic~Analysis, B. (2022).
-\newblock Gross domestic produce.
-\newblock {\em Gross Domestic Product | U.S. Bureau of Economic Analysis
-  (BEA)\/}~{\em https://www.bea.gov/data/gdp/gross-domestic-product}.
+\bibitem[\protect\citeauthoryear{Institute}{Institute}{2020}]{cfi}
+Institute, C.~F. (2020).
+\newblock Economic forecasting.
+\newblock ~{\em
+  https://corporatefinanceinstitute.com/resources/knowledge/economics/economic-forecasting/}.
 
 \end{thebibliography}

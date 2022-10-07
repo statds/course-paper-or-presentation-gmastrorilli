@@ -4,45 +4,47 @@ The top-level auxiliary file: Proposal.aux
 The style file: chicago.bst
 Database file #1: refrences.bib
 Warning--page numbers missing in bea
-You've used 2 entries,
+Warning--no journal in cfi
+Warning--page numbers missing in cfi
+You've used 3 entries,
             2861 wiz_defined-function locations,
-            626 strings with 5171 characters,
-and the built_in function-call counts, 1246 in all, are:
-= -- 109
-> -- 78
+            631 strings with 5294 characters,
+and the built_in function-call counts, 1734 in all, are:
+= -- 150
+> -- 104
 < -- 0
-+ -- 24
-- -- 30
-* -- 98
-:= -- 236
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 13
-chr.to.int$ -- 2
-cite$ -- 3
-duplicate$ -- 33
-empty$ -- 78
-format.name$ -- 34
-if$ -- 223
++ -- 30
+- -- 40
+* -- 132
+:= -- 333
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 19
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 48
+empty$ -- 111
+format.name$ -- 44
+if$ -- 308
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 20
-pop$ -- 7
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 30
+pop$ -- 10
 preamble$ -- 1
-purify$ -- 25
+purify$ -- 37
 quote$ -- 0
-skip$ -- 40
+skip$ -- 57
 stack$ -- 0
-substring$ -- 67
-swap$ -- 10
+substring$ -- 87
+swap$ -- 14
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 40
-warning$ -- 1
-while$ -- 22
+type$ -- 60
+warning$ -- 3
+while$ -- 32
 width$ -- 0
-write$ -- 28
-(There was 1 warning)
+write$ -- 41
+(There were 3 warnings)

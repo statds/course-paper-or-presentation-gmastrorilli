@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Proposal"] 1665178914 "Proposal.aux" "Proposal.bbl" "Proposal" 1665178916
+["bibtex Proposal"] 1665179227 "Proposal.aux" "Proposal.bbl" "Proposal" 1665179229
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "Proposal.aux" 1665178915 1497 f2b777e859ca1aaf01bd7989f6f6c3ec "pdflatex"
-  "refrences.bib" 1665178908 761 3c08387d96b4a777a1e321f61d0f3198 ""
+  "Proposal.aux" 1665179229 1577 54d4fd750e418417809f0657a94ffecd "pdflatex"
+  "refrences.bib" 1665179196 948 86cd09fe3480af7cc97de2de548b0879 ""
   (generated)
   "Proposal.bbl"
   "Proposal.blg"
-["pdflatex"] 1665178914 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1665178916
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1665178908 5268 e9ad4ca6e6af3ab6aee75b563ea7adce ""
+["pdflatex"] 1665179227 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1665179229
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1665179223 5262 9aa327a3dfc409d5efc9ad1ce661b0d1 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -81,10 +81,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664467243 2826443 e9f15c3f92c28835fa0aacd7b4063307 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Proposal.aux" 1665178915 1497 f2b777e859ca1aaf01bd7989f6f6c3ec "pdflatex"
-  "Proposal.bbl" 1665178914 600 5aff93864ae9b6eebced9ad390c2dcba "bibtex Proposal"
+  "Proposal.aux" 1665179229 1577 54d4fd750e418417809f0657a94ffecd "pdflatex"
+  "Proposal.bbl" 1665179227 833 5941cd8588a6b2987b6f55073c3f33f9 "bibtex Proposal"
   "Proposal.out" 0 -1 0 "pdflatex"
-  "Proposal.tex" 1665178908 5268 e9ad4ca6e6af3ab6aee75b563ea7adce ""
+  "Proposal.tex" 1665179223 5262 9aa327a3dfc409d5efc9ad1ce661b0d1 ""
   (generated)
   "Proposal.aux"
   "Proposal.log"
