@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Proposal"] 1665178612 "Proposal.aux" "Proposal.bbl" "Proposal" 1665178612
+["bibtex Proposal"] 0 "Proposal.aux" "Proposal.bbl" "Proposal" 0
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "Proposal.aux" 1665178611 1376 15a3a3390cdb7e6d8bcb568cd78d5a03 "pdflatex"
-  "refrences.bib" 1665178603 819 97e748ef315a1bfa46440374a16ba8d6 ""
+  "Proposal.aux" 0 -1 0 "pdflatex"
+  "refrences.bib" 1665178657 816 e6f3b9017a5ae66d527c069dd765657c ""
   (generated)
   "Proposal.bbl"
   "Proposal.blg"
-["pdflatex"] 1665178609 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1665178609
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1665178608 5292 f6d2e7e31eb1ab99725093fa30922202 ""
+["pdflatex"] 1665178684 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" "Proposal.pdf" "Proposal" 1665178684
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Proposal/Proposal.tex" 1665178681 5296 582c21b96633875b4a76519ff9deb1c1 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -79,10 +79,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664467243 2826443 e9f15c3f92c28835fa0aacd7b4063307 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Proposal.aux" 1665178609 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Proposal.aux" 1665178684 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "Proposal.bbl" 0 -1 0 "bibtex Proposal"
   "Proposal.out" 0 -1 0 "pdflatex"
-  "Proposal.tex" 1665178608 5292 f6d2e7e31eb1ab99725093fa30922202 ""
+  "Proposal.tex" 1665178681 5296 582c21b96633875b4a76519ff9deb1c1 ""
   (generated)
   "Proposal.aux"
   "Proposal.log"
