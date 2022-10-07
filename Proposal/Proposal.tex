@@ -15,7 +15,7 @@
 
 %% meta data
 
-\title{Proposal: GDP in the U.S.? }
+\title{Proposal: Influences of GDP in the U.S }
 \author{Ginamarie Mastrorilli\\
   Department of Statistics\\
   University of Connecticut
@@ -28,40 +28,55 @@
 \paragraph{Introduction}
 %Introduction: Introducing the topic and why you have chosen this topic (3–5 lines). 
 %Mention briefly the current related research and cite relevant works.
-Gross Domestic Product is one of the main factors that goes into determining a countries economic growth. Gross Domestic Product or GDP is a "comprehensive measure of U.S economic activity." (add bea citation) 
-(cite K. Hema Divya) founnd that exchange rates and market indexes are important factors that influence an economies GDP. They also found that inflation is highly correlated, but not a significant influencer.  
+Gross Domestic Product is one of the main factors that goes into determining a countries economic growth. 
+It is a "comprehensive measure of U.S economic activity." (add bea citation) 
+GDP is the total monetary value of all goods and services that are produced in a country. For this paper, I will focus solely on the GDP in the United States. 
+(cite K. Hema Divya) found that exchange rates and market indexes are important factors that influence an economies GDP. They also found that inflation is highly correlated, but not a significant influencer.  
 
 \paragraph{Specific Aims}
 %Specific aims: Formulate a research question or hypothesis in the chosen topic.
 % Describe briefly why you select such a question or hypothesis and its importance in the field (cite sources).
-With so many economic factors and data readily avaiable to us, which ones shoudl economists focus on?
+With so many economic factors and data readily avaiable, which variables should economists focus on?
 When investigating U.S. Gross Domestic Product, the goal is to determine the relationship between variables and if those variables can help predict GDP.
-If a variable tends to predict the value of GDP, then economists should focus more on these independent variables when exploring Gross Domestic Product.
-I decided to choose this topic because as an economics minor, I have seen similar analysis, but have never had the opportunity to do this statistical analysis myself. 
+If a variable tends to predict the value of GDP, then economists should focus more on these independent variables when forecasting Gross Domestic Product.
+I decided to choose this topic because as an Economics minor, I have seen similar analysis, but have never had the opportunity to do this statistical analysis myself. 
 This is important becuause even though there is an abdunace of resouces avaiable about GDP, this information can change based on country, variables used, and which years your data contains. 
+Having the ability to accurately predict GDP is important because governments, corporations, and investors heavily take GDP into consideration when making decisions. (cite CFI article)
 
 
 \paragraph{Data}
-My dependent variable will be Gross Domestic Product (GDP).
-% add more vars or change last variable + add (ex:GDP) to rest of variables 
-My independent variables will be Population (Annual Percent), nominal broad u.s. dollar index, 10-Year Treasury Constant Maturity Rate, Disposable Personal Income(Annual Percent), Unemployment Rate(Annual Percent), and Labor Productivity: Business Sector. 
+My data has been collected from the Federal Reserve Economic Data (FRED) website.
+All of the datasets have been collected seperately and compiled into one dataset. 
+There are seven variables and sixty seven observations in this dataset. 
+My dependent variable is Gross Domestic Product (GDP). 
+My independent variables are Population (POP), Nominal Broad U.S Dollar Index (NBUSDI), 10 Year Treasury Constant Maturity Rate (TCMR), Disposable Personal Income (DPI), Unemployment Rate (UNRATE), and Business Sector Labor Productivity (BSLP). 
+The dataset contains quarterly observations starting from January 1st, 2006 up until July 7th, 2022.
+The limited amount of data comes from Nominal Broad U.S Dollar Index (NBUSDI) only starting to be recorded by FRED in 2006. 
 
-The data is collected from the Federal Reserve Economic Data (FRED) website. All of the datasets have been collected seperately and compiled into one Excel file. 
+
+
 
 \paragraph{Research Design and Methods}
 % say statisical methods
 For this paper, I plan to create a multiple linear regression model. 
-For this model, my dependent variable will be Gross Domestic Product, and my independent variables will be ...(add). 
+For the model, my dependent variable will be Gross Domestic Product, and my independent variables will be Population (POP), Nominal Broad U.S Dollar Index (NBUSDI), 10 Year Treasury Constant Maturity Rate (TCMR), Disposable Personal Income (DPI), Unemployment Rate (UNRATE), and Business Sector Labor Productivity (BSLP). 
 My goal is to find which independent variables are associated and can help predict the value of GDP. 
-
+There has been much research into what impacts GDP, but I am curious to see if Nominal Broad U.S Dollar Index (NBUSDI) and  Business Sector Labor Productivity (BSLP) are successful indicators. 
+My methods will help my hypothesis becuase it allows me to compare variables against one another while also testing their relationship to GDP.
 
 
 \paragraph{Discussion}
-\lipsum[5] \citep{wild2004global}
+I expect to find that many of my variables will have a strong relationship with GDP.
+Mainly, I expect Disposable Personal Income (DPI) and Unemployment Rate (UNRATE) to have the strongest relationships since person consumption and high goverment costs impact GDP.
+I am interested in testing Nominal Broad U.S Dollar Index (NBUSDI) because this varible measures the U.S. dollar compared with all other currencies. 
+This variable is assocated with exports which is used when calculating GDP.
+I am also interested in testing Business Sector Labor Productivity (BSLP). GDP is a measure of labor productivity, so I am expecting BSLP to have a strong relationship with GDP. 
+
 
 \paragraph{Conclusion}
-\lipsum[1]
-
+Overall, even though there is a lot of research about what impacts GDP, my main goal is to test these methods myself. 
+The purpose behind my research is to corroborate previous research while also exploring my own interest.
+If my model is successful, I will be able to confirm my expectations while also indicating to economists which variables they should focus on. 
 
 \bibliography{../manuscript/refs}
 \bibliographystyle{chicago}
