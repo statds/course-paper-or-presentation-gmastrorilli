@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  9 OCT 2022 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  10 OCT 2022 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,13 +345,8 @@ LaTeX Info: Redefining \nameref on input line 22.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Proposal.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
-[]\OT1/cmr/m/n/12 Corporate Fi-nance In-sti-tute, C. (2020).  Eco-nomic fore-cast-ing.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--16
-\OT1/cmr/m/it/12 https://corporatefinanceinstitute.com/resources/knowledge/economics/economic-
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 Economic fore-cast-ing.  [][]$\OT1/cmtt/m/n/12 https : / / corporatefinanceinstitute . com / resources /
  []
 
 ) [2] (./Proposal.aux)
@@ -359,18 +354,18 @@ Package rerunfilecheck Info: File `Proposal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9712 strings out of 478268
- 151755 string characters out of 5846347
- 460191 words of memory out of 5000000
- 27805 multiletter control sequences out of 15000+600000
- 472480 words of font info for 39 fonts, out of 8000000 for 9000
+ 9733 strings out of 478268
+ 151973 string characters out of 5846347
+ 460138 words of memory out of 5000000
+ 27818 multiletter control sequences out of 15000+600000
+ 475761 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,424b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Proposal.pdf (2 pages, 67646 bytes).
+ 60i,6n,63p,424b,359s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Proposal.pdf (2 pages, 73364 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

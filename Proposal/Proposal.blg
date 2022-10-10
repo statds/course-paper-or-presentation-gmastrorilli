@@ -3,48 +3,56 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Proposal.aux
 The style file: chicago.bst
 Database file #1: refrences.bib
+Warning--no key, author in cfi
+Warning--no author, editor, or organization in cfi
+Warning--to sort, need author or key in cfi
+Warning--no key, author in cfi
+Warning--no author, editor, or organization in cfi
+Warning--no key, author in cfi
+Warning--no author, editor, or organization in cfi
+Warning--no key, author in cfi
+Warning--no author, editor, or organization in cfi
+Warning--empty year in cfi
 Warning--page numbers missing in bea
-Warning--no journal in cfi
-Warning--page numbers missing in cfi
 You've used 3 entries,
             2861 wiz_defined-function locations,
-            631 strings with 5299 characters,
-and the built_in function-call counts, 1734 in all, are:
-= -- 150
-> -- 104
+            629 strings with 5269 characters,
+and the built_in function-call counts, 1619 in all, are:
+= -- 145
+> -- 78
 < -- 0
-+ -- 30
-- -- 40
++ -- 24
+- -- 30
 * -- 132
-:= -- 333
-add.period$ -- 9
+:= -- 269
+add.period$ -- 8
 call.type$ -- 3
-change.case$ -- 19
+change.case$ -- 18
 chr.to.int$ -- 3
-cite$ -- 6
-duplicate$ -- 48
-empty$ -- 111
-format.name$ -- 44
-if$ -- 308
+cite$ -- 18
+duplicate$ -- 49
+empty$ -- 122
+format.name$ -- 34
+if$ -- 303
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 3
-newline$ -- 18
-num.names$ -- 30
-pop$ -- 10
+missing$ -- 2
+newline$ -- 17
+num.names$ -- 20
+pop$ -- 20
 preamble$ -- 1
-purify$ -- 37
+purify$ -- 36
 quote$ -- 0
-skip$ -- 57
+skip$ -- 49
 stack$ -- 0
-substring$ -- 87
-swap$ -- 14
+substring$ -- 91
+swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 60
-warning$ -- 3
-while$ -- 32
+warning$ -- 11
+while$ -- 22
 width$ -- 0
-write$ -- 41
-(There were 3 warnings)
+write$ -- 38
+(There were 11 warnings)
