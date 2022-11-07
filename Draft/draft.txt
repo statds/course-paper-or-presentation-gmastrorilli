@@ -32,6 +32,17 @@
 
 \paragraph{Introduction}
 
+What is Gross Domestic Product? Gross Domestic Product is one of the main factors that goes into determining a countries economic growth. 
+GDP is the total monetary value of all goods and services that are produced in a country and is a "comprehensive measure of U.S economic activity" \citet[]{bea}.
+There has been extensice research into GDP and what factors impact it. 
+Which factors have been researched are subjective based on those who are conducting the study.
+For this paper, we will quantify the relation between influencers of GDP. 
+
+
+
+
+
+
 
 \paragraph{Data}
 
