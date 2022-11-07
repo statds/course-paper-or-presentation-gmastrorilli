@@ -1,1 +1,58 @@
-hello
+\documentclass[12pt]{article}
+
+%% preamble
+\usepackage{amsmath}
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{natbib}
+
+% highlighting hyper links and refrences 
+\usepackage[colorlinks=true, citecolor=blue]{hyperref}
+
+% Need to research how to properly cite websites
+
+
+\title{Draft: Influences of GDP in the U.S }
+\author{Ginamarie Mastrorilli\\
+  Department of Statistics\\
+  University of Connecticut
+}
+
+\begin{document}
+\maketitle
+
+
+\paragraph{Abstract}
+
+
+\paragraph{Keywords}
+
+
+
+\paragraph{Introduction}
+
+
+\paragraph{Data}
+
+
+
+\paragraph{Methods}
+
+
+
+
+\paragraph{Application}
+
+
+
+
+\paragraph{Discussion}
+
+
+\paragraph{Appendix}
+
+
+
+
+\end{document}
