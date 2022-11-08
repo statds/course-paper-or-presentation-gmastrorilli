@@ -64,6 +64,7 @@ For this paper, we will quantify the relation between influencers of GDP.
 \paragraph{Appendix}
 
 
-
+\bibliography{refrences}
+\bibliographystyle{chicago}
 
 \end{document}
