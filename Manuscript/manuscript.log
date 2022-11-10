@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  10 NOV 2022 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  10 NOV 2022 11:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,7 +344,12 @@ LaTeX Info: Redefining \nameref on input line 22.
 
  [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./manuscript.bbl) [2] (./manuscript.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (21.96503pt too wide) in paragraph at lines 92--93
+[]\OT1/cmr/m/n/12 My in-de-pen-dent vari-ables are Pop-u-la-tion (POP), Nom-i-nal Broad U.S Dol-lar In-dex (NBUSDI),
+ []
+
+(./manuscript.bbl) [2] (./manuscript.aux)
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -357,7 +362,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,6n,63p,481b,325s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on manuscript.pdf (2 pages, 76101 bytes).
+Output written on manuscript.pdf (2 pages, 76601 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
