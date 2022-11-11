@@ -1,16 +1,15 @@
 \documentclass[12pt]{article}
 
-%% preamble
+
 \usepackage{amsmath}
 \usepackage[margin = 1in]{geometry}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{natbib}
 
-% highlighting hyper links and refrences 
+
 \usepackage[colorlinks=true, citecolor=blue]{hyperref}
 
-% Need to research how to properly cite websites
 
 
 \title{Influences of GDP in the U.S }
@@ -91,6 +90,23 @@ The variables collected from the FRED website are Gross Domestic Product (Billio
 The variable Total Primary Energy Consumption (Quadrillion Btu) used in this research was collected from the U.S. Energy Information Administration website. The EIA "collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment."(EIA)
 My independent variables are Population (POP), Business Sector Labor Productivity (BSLP), 10 Year Treasury Constant Maturity Rate (TCMR), Disposable Personal Income (DPI), Unemployment Rate (UNRATE), and Total Primary Energy Consumption (TPEC). The dependent variable is Gross Domestic Product (GDP).
 Observations are taken quarterly from January 1st, 1973 to July 1st, 2022. In this dataframe there are 199 observations from 7 variables with no missing values. 
+Summary statistics for the data is as follows
+
+
+\usepackage{multirow}
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Summary Statistics} \\
+ \hline
+ Variable & Min. & 1st Quantile & Median & Mean & 3rd Quantile & Max. \\
+ \hline
+   TPEC & 5.669 & 6.07& 7.609 & 7.462 & 8.082 & 9.965\\
+   GDP &  1377 & 4341 & 8363 & 9962 & 14940 & 25248 \\
+   POP & 211192 & 238482 & 271709 & 273195 & 30886 & 332940\\
+   TCMR & .6506 & 3.4607 & 6.1448 & 6.1156 & 8.054 & 14.8384\\
+   DPI & 968.7 & 3114.2 & 6037.2 & 7440.5 & 11171.3 & 19586.5 \\
+ \hline
+\end{tabular}
 
 
 
