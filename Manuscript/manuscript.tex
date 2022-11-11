@@ -6,7 +6,7 @@
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{natbib}
-
+\usepackage{multirow}
 
 \usepackage[colorlinks=true, citecolor=blue]{hyperref}
 
@@ -87,28 +87,34 @@ For this paper, we will quantify the relation between influencers of GDP.
 
 The economic data used in this research was collected from Federal Reserve Economic Data(FRED). This is an online database that is maintained by the Research Department at the Federal Reserve Bank of St. Louis. 
 The variables collected from the FRED website are Gross Domestic Product (Billions of Dollars, Quarterly, Seasonally Adjusted Annual Rate), Population (Thousands, Quarterly, Not Seasonally Adjusted), Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Disposable Personal Income (Billions of Dollars, Quarterly, Seasonally Adjusted Annual), Unemployment Rate (Percent, Quarterly, Seasonally Adjusted), and Business Sector: Labor Productivity (Output per Hour) for All Employed Persons. 
-The variable Total Primary Energy Consumption (Quadrillion Btu) used in this research was collected from the U.S. Energy Information Administration website. The EIA "collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment."(EIA)
+
+
+The variable Total Primary Energy Consumption (Quadrillion Btu) used in this research was collected from the U.S. Energy Information Administration website. 
+The EIA "collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment."(EIA)
 My independent variables are Population (POP), Business Sector Labor Productivity (BSLP), 10 Year Treasury Constant Maturity Rate (TCMR), Disposable Personal Income (DPI), Unemployment Rate (UNRATE), and Total Primary Energy Consumption (TPEC). The dependent variable is Gross Domestic Product (GDP).
 Observations are taken quarterly from January 1st, 1973 to July 1st, 2022. In this dataframe there are 199 observations from 7 variables with no missing values. 
 Summary statistics for the data is as follows
 
 
-\usepackage{multirow}
-\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
- \hline
- \multicolumn{4}{|c|}{Summary Statistics} \\
- \hline
- Variable & Min. & 1st Quantile & Median & Mean & 3rd Quantile & Max. \\
- \hline
-   TPEC & 5.669 & 6.07& 7.609 & 7.462 & 8.082 & 9.965\\
-   GDP &  1377 & 4341 & 8363 & 9962 & 14940 & 25248 \\
-   POP & 211192 & 238482 & 271709 & 273195 & 30886 & 332940\\
-   TCMR & .6506 & 3.4607 & 6.1448 & 6.1156 & 8.054 & 14.8384\\
-   DPI & 968.7 & 3114.2 & 6037.2 & 7440.5 & 11171.3 & 19586.5 \\
- \hline
-\end{tabular}
 
 
+
+
+\begin{tabular}{ |p{2cm}||p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+  \hline
+  \multicolumn{9}{|c|}{Summary} \\
+  \hline
+  Variable & Min. & 1st Quantile & Median & Mean & 3rd Quantile & Max. \\
+  \hline
+  TPEC & 5.669 & 6.07& 7.609 & 7.462 & 8.082 & 9.965\\
+  GDP &  1377 & 4341 & 8363 & 9962 & 14940 & 25248\\
+  POP & 211192 & 238482 & 271709 & 273195 & 30886 & 332940\\
+  TCMR & .6506 & 3.4607 & 6.1448 & 6.1156 & 8.054 & 14.8384\\
+  DPI & 968.7 & 3114.2 & 6037.2 & 7440.5 & 11171.3 & 19586.5\\
+  UNRATE & 3.6 & 5.05 & 5.867 & 6.231 & 7.3 & 12.967\\
+  BSPL & 45.99 & 56.35 & 67.69 & 75.44 & 98.96\\
+  \hline
+ \end{tabular}
 
 
 

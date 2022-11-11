@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex manuscript"] 0 "manuscript.aux" "manuscript.bbl" "manuscript" 0
+["bibtex manuscript"] 1668201504 "manuscript.aux" "manuscript.bbl" "manuscript" 1668201800
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "manuscript.aux" 0 -1 0 "pdflatex"
+  "manuscript.aux" 1668201800 1673 95993d9c3bd8ffafda3d95051808161a "pdflatex"
   "refrences.bib" 1667922453 951 3ff89b3f7d973343fddc6ba54bd1252e ""
   (generated)
   "manuscript.bbl"
   "manuscript.blg"
-["pdflatex"] 1668200901 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1668200901
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" 1668200897 6737 519a92422e3170b03f4a9f95d2c22f9a ""
+["pdflatex"] 1668201798 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1668201800
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" 1668201798 6867 4de951204d1a253b6b371b3a15780657 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -23,10 +23,12 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -75,6 +77,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1644269979 29921 d0acc05a38bd4aa3af2017f0b7c137ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1575499565 5766 13a9e8766c47f30327caf893ece86ac8 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty" 1615845910 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty" 1291685959 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
@@ -83,10 +86,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664467243 2826443 e9f15c3f92c28835fa0aacd7b4063307 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "manuscript.aux" 1668200901 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "manuscript.bbl" 0 -1 0 "bibtex manuscript"
+  "manuscript.aux" 1668201800 1673 95993d9c3bd8ffafda3d95051808161a "pdflatex"
+  "manuscript.bbl" 1668201504 598 93130a2293892298c2c62a3b2173e5b9 "bibtex manuscript"
   "manuscript.out" 0 -1 0 "pdflatex"
-  "manuscript.tex" 1668200897 6737 519a92422e3170b03f4a9f95d2c22f9a ""
+  "manuscript.tex" 1668201798 6867 4de951204d1a253b6b371b3a15780657 ""
   (generated)
   "manuscript.aux"
   "manuscript.log"
