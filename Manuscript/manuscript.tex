@@ -6,7 +6,9 @@
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{natbib}
+\usepackage{tabularx}
 \usepackage{multirow}
+\usepackage{multicol}
 \usepackage{setspace}
 \usepackage{float}
 \usepackage[colorlinks=true, citecolor=blue]{hyperref}
@@ -108,12 +110,12 @@ The independent variables are Population (POP), Business Sector Labor Productivi
 The dependent variable is Gross Domestic Product (GDP).
 Summary statistics for the training dataset are as follows:
 
-%need to fix formatting
-\begin{tabular}{ |p{2cm}||p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+
+\begin{tabular}{ |p{2cm}||p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}| }
   \hline
-  \multicolumn{9}{|c|}{Summary} \\
+  \multicolumn{7}{|c|}{Summary} \\
   \hline
-  Variable & Min. & 1st Quantile & Median & Mean & 3rd Quantile & Max. \\
+  Variable & Min. & 1st Q & Median & Mean & 3rd Q & Max. \\
   \hline
   TPEC & 5.669 & 6.07& 7.609 & 7.462 & 8.082 & 9.965\\
   GDP &  1377 & 4341 & 8363 & 9962 & 14940 & 25248\\
@@ -121,7 +123,7 @@ Summary statistics for the training dataset are as follows:
   TCMR & .6506 & 3.4607 & 6.1448 & 6.1156 & 8.054 & 14.8384\\
   DPI & 968.7 & 3114.2 & 6037.2 & 7440.5 & 11171.3 & 19586.5\\
   UNRATE & 3.6 & 5.05 & 5.867 & 6.231 & 7.3 & 12.967\\
-  BSPL & 45.99 & 56.35 & 67.69 & 75.44 & 98.96\\
+  BSPL & 45.99 & 56.35 & 67.69 & 75.44 & 98.96 & 116.10\\
   \hline
 \end{tabular}
 

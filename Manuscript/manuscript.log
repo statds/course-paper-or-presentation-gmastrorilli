@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  12 NOV 2022 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  12 NOV 2022 16:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -138,21 +138,108 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip53
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count278
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box52
+\extrarowheight=\dimen172
+\NC@list=\toks23
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box53
+)
+\TX@col@width=\dimen173
+\TX@old@table=\dimen174
+\TX@old@col=\dimen175
+\TX@target=\dimen176
+\TX@delta=\dimen177
+\TX@cols=\count279
+\TX@ftn=\toks24
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip54
-\multirow@cntb=\count279
-\multirow@dima=\skip55
-\bigstrutjot=\dimen171
+\multirow@colwidth=\skip56
+\multirow@cntb=\count280
+\multirow@dima=\skip57
+\bigstrutjot=\dimen178
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count281
+\mult@box=\box54
+\multicol@leftmargin=\dimen179
+\c@unbalance=\count282
+\c@collectmore=\count283
+\doublecol@number=\count284
+\multicoltolerance=\count285
+\multicolpretolerance=\count286
+\full@width=\dimen180
+\page@free=\dimen181
+\premulticols=\dimen182
+\postmulticols=\dimen183
+\multicolsep=\skip58
+\multicolbaselineskip=\skip59
+\partial@page=\box55
+\last@line=\box56
+\maxbalancingoverflow=\dimen184
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count287
+\c@columnbadness=\count288
+\c@finalcolumnbadness=\count289
+\last@try=\dimen185
+\multicolovershoot=\dimen186
+\multicolundershoot=\dimen187
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count290
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count280
-\float@exts=\toks23
-\float@box=\box52
-\@float@everytoks=\toks24
-\@floatcapt=\box53
+\c@float@type=\count291
+\float@exts=\toks25
+\float@box=\box99
+\@float@everytoks=\toks26
+\@floatcapt=\box100
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
  (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -180,9 +267,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen172
-\Hy@linkcounter=\count281
-\Hy@pagecounter=\count282
+\@linkdim=\dimen188
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -192,7 +279,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count283
+\Hy@SavedSpaceFactor=\count294
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -206,21 +293,21 @@ Package hyperref Info: Plain pages OFF on input line 4152.
 Package hyperref Info: Backreferencing OFF on input line 4157.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count284
+\c@Hy@tempcnt=\count295
  (/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen173
+\XeTeXLinkMargin=\dimen189
  (/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count285
-\Field@Width=\dimen174
-\Fld@charsize=\dimen175
+\Fld@menulength=\count296
+\Field@Width=\dimen190
+\Fld@charsize=\dimen191
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -234,9 +321,9 @@ LaTeX Info: Redefining \pageref on input line 6101.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count286
-\c@Item=\count287
-\c@Hfootnote=\count288
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -245,8 +332,8 @@ File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count289
-\c@bookmark@seq@number=\count290
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
  (/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -254,32 +341,32 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
-\Hy@SectionHShift=\skip56
+\Hy@SectionHShift=\skip60
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count291
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box101
 ) (./manuscript.aux)
 \openout1 = `manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -317,17 +404,17 @@ LaTeX Font Info:    ... okay on input line 23.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count292
-\scratchdimen=\dimen176
-\scratchbox=\box55
-\nofMPsegments=\count293
-\nofMParguments=\count294
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count295
-\MPscratchDim=\dimen177
-\MPnumerator=\count296
-\makeMPintoPDFobject=\count297
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count303
+\scratchdimen=\dimen192
+\scratchbox=\box102
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen193
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks28
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -340,7 +427,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 23.
+Package hyperref Info: Link coloring ON on input line 25.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -348,11 +435,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count298
+\c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (./manuscript.out) (./manuscript.out)
 \@outlinefile=\write3
 \openout3 = `manuscript.out'.
@@ -360,48 +447,148 @@ LaTeX Info: Redefining \nameref on input line 23.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 2762) in paragraph at lines 116--116
-[]\OT1/cmr/m/n/12 1st Quan-
+Overfull \hbox (9.7302pt too wide) in paragraph at lines 118--118
+[]|\OT1/cmr/m/n/12 Median| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\OT1/cmr/m/n/12 3rd
+ []
+
+
+Overfull \hbox (0.92195pt too wide) in paragraph at lines 121--121
+[]|\OT1/cmr/m/n/12 14940| 
+ []
+
+
+Overfull \hbox (0.92195pt too wide) in paragraph at lines 121--122
+[]|\OT1/cmr/m/n/12 25248| 
+ []
+
+
+Overfull \hbox (6.79689pt too wide) in paragraph at lines 122--122
+[]|\OT1/cmr/m/n/12 211192| 
+ []
+
+
+Overfull \hbox (6.79689pt too wide) in paragraph at lines 122--122
+[]|\OT1/cmr/m/n/12 238482| 
+ []
+
+
+Overfull \hbox (6.79689pt too wide) in paragraph at lines 122--122
+[]|\OT1/cmr/m/n/12 271709| 
+ []
+
+
+Overfull \hbox (6.79689pt too wide) in paragraph at lines 122--122
+[]|\OT1/cmr/m/n/12 273195| 
+ []
+
+
+Overfull \hbox (0.92195pt too wide) in paragraph at lines 122--122
+[]|\OT1/cmr/m/n/12 30886| 
+ []
+
+
+Overfull \hbox (6.79689pt too wide) in paragraph at lines 122--123
+[]|\OT1/cmr/m/n/12 332940| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 123--123
+[]|\OT1/cmr/m/n/12 3.4607| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 123--123
+[]|\OT1/cmr/m/n/12 6.1448| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 123--123
+[]|\OT1/cmr/m/n/12 6.1156| 
+ []
+
+
+Overfull \hbox (10.06075pt too wide) in paragraph at lines 123--124
+[]|\OT1/cmr/m/n/12 14.8384| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 124--124
+[]|\OT1/cmr/m/n/12 3114.2| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 124--124
+[]|\OT1/cmr/m/n/12 6037.2| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 124--124
+[]|\OT1/cmr/m/n/12 7440.5| 
+ []
+
+
+Overfull \hbox (10.06075pt too wide) in paragraph at lines 124--124
+[]|\OT1/cmr/m/n/12 11171.3| 
+ []
+
+
+Overfull \hbox (10.06075pt too wide) in paragraph at lines 124--125
+[]|\OT1/cmr/m/n/12 19586.5| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 125--126
+[]|\OT1/cmr/m/n/12 12.967| 
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 126--127
+[]|\OT1/cmr/m/n/12 116.10| 
  []
 
 [3] [4]
 <mod1output.pdf, id=40, 614.295pt x 794.97pt>
 File: mod1output.pdf Graphic file (type pdf)
 <use mod1output.pdf>
-Package pdftex.def Info: mod1output.pdf  used on input line 179.
+Package pdftex.def Info: mod1output.pdf  used on input line 181.
 (pdftex.def)             Requested size: 307.14674pt x 397.48402pt.
  [5 <./mod1output.pdf>]
 <AVP1.pdf, id=53, 794.97pt x 614.295pt>
 File: AVP1.pdf Graphic file (type pdf)
 <use AVP1.pdf>
-Package pdftex.def Info: AVP1.pdf  used on input line 197.
+Package pdftex.def Info: AVP1.pdf  used on input line 199.
 (pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
  [6 <./AVP1.pdf, page is rotated 90 degrees>]
 <mod2output.pdf, id=66, 794.97pt x 614.295pt>
 File: mod2output.pdf Graphic file (type pdf)
 <use mod2output.pdf>
-Package pdftex.def Info: mod2output.pdf  used on input line 219.
+Package pdftex.def Info: mod2output.pdf  used on input line 221.
 (pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
  [7 <./mod2output.pdf, page is rotated 90 degrees>]
 <AVP2.pdf, id=79, 794.97pt x 614.295pt>
 File: AVP2.pdf Graphic file (type pdf)
 <use AVP2.pdf>
-Package pdftex.def Info: AVP2.pdf  used on input line 235.
+Package pdftex.def Info: AVP2.pdf  used on input line 237.
 (pdftex.def)             Requested size: 397.48402pt x 307.14674pt.
  [8 <./AVP2.pdf, page is rotated 90 degrees>] (./manuscript.bbl) [9] (./manuscript.aux)
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9966 strings out of 478268
- 156299 string characters out of 5846347
- 467313 words of memory out of 5000000
- 28024 multiletter control sequences out of 15000+600000
+ 10232 strings out of 478268
+ 160783 string characters out of 5846347
+ 472458 words of memory out of 5000000
+ 28281 multiletter control sequences out of 15000+600000
  475592 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,611b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on manuscript.pdf (9 pages, 1081130 bytes).
+Output written on manuscript.pdf (9 pages, 1081142 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream
