@@ -8,6 +8,7 @@
 \usepackage{natbib}
 \usepackage{multirow}
 \usepackage{setspace}
+\usepackage{float}
 \usepackage[colorlinks=true, citecolor=blue]{hyperref}
 
 \doublespacing
@@ -155,7 +156,7 @@ $\epsilon$ represents how much variation there is in our estimate for the depend
 
  
 
-
+% explain VIF and AV plots 
 
 
 
@@ -164,10 +165,20 @@ $\epsilon$ represents how much variation there is in our estimate for the depend
 \paragraph{Application}
 
 When applying multiple linear regression to the data set, all independent variables were included in the intital model.
-The model was built using the variables TPEC, POP, TCMR, DPI, UNRATE and BSLP from the training dataset. 
+Model 1 was built using the variables TPEC, POP, TCMR, DPI, UNRATE and BSLP from the training dataset. 
+The equation used for this model is as follows:
 
+\begin{equation}
+  GDP = \beta_0 + \beta_1 TPEC + \beta_2 TCMR+ \beta_3 DPI + \beta_4 UNRATE + \beta_5 BSPL
+\end{equation}
 
+Summary statistics for this model are as follows:
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width = \textwidth]{mod1output}
+  \caption{This figure shows the output from R for the summary statistics for Model 1}
+\end{figure}
 
 
 
