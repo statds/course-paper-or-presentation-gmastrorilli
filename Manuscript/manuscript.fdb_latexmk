@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex manuscript"] 1668277977 "manuscript.aux" "manuscript.bbl" "manuscript" 1668277979
+["bibtex manuscript"] 1668281436 "manuscript.aux" "manuscript.bbl" "manuscript" 1668281447
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "manuscript.aux" 1668277978 1673 3336d855792431feeb5e043056df94aa "pdflatex"
+  "manuscript.aux" 1668281447 1673 96ce81f284f0b26f4b417681e4c6c2e7 "pdflatex"
   "refrences.bib" 1667922453 951 3ff89b3f7d973343fddc6ba54bd1252e ""
   (generated)
   "manuscript.bbl"
   "manuscript.blg"
-["pdflatex"] 1668277977 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1668277979
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" 1668277974 6993 3b947eac8119a57a04c1cbd6c22097cb ""
+["pdflatex"] 1668281446 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1668281447
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" 1668281445 8373 d7c60cc6835902459b0d43ecc0f63b2a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -26,8 +26,10 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -88,10 +90,10 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664467243 2826443 e9f15c3f92c28835fa0aacd7b4063307 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "AVP1.pdf" 1668203703 268575 046a07b05ebc14c4a88fe4a7ddcae3dd ""
-  "manuscript.aux" 1668277978 1673 3336d855792431feeb5e043056df94aa "pdflatex"
-  "manuscript.bbl" 1668277977 598 93130a2293892298c2c62a3b2173e5b9 "bibtex manuscript"
+  "manuscript.aux" 1668281447 1673 96ce81f284f0b26f4b417681e4c6c2e7 "pdflatex"
+  "manuscript.bbl" 1668281436 598 93130a2293892298c2c62a3b2173e5b9 "bibtex manuscript"
   "manuscript.out" 0 -1 0 "pdflatex"
-  "manuscript.tex" 1668277974 6993 3b947eac8119a57a04c1cbd6c22097cb ""
+  "manuscript.tex" 1668281445 8373 d7c60cc6835902459b0d43ecc0f63b2a ""
   (generated)
   "manuscript.aux"
   "manuscript.log"

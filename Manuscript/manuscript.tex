@@ -46,8 +46,10 @@ GDP became a national tool to measure a countries economic activity in the 1940'
 At this time, Gross National Product was still a main tool to measure production, but in 1991, the United States swiched to using GDP as its main estimate. 
 GDP is calculated by the equation: 
 
-% made centered
-$C + I + G + NX = GDP$
+\begin{equation}
+C + I + G + NX = GDP
+\end{equation}
+
 
 In this equation, "(C) represents private-consumption expenditures by households and nonprofit organizations, investment (I) refers to business expenditures by businesses and home purchases by households, 
 government spending (G) denotes expenditures on goods and services by the government, and net exports (NX) represents a nation’s exports minus its imports." (CITE BRITICANICA)
@@ -132,6 +134,24 @@ Summary statistics for the data is as follows
 
 \paragraph{Methods}
 
+To investigate which factors influence Gross Domestic Product, multiple linear regression will be used. 
+Specifically, the variables Population, Business Sector Labor Productivity, 10 Year Treasury Constant Maturity Rate, Disposable Personal Income, Unemployment Rate, and Total Primary Energy Consumption will be used to predict United States Gross Domestic Product.
+Multiple linear regrssion is a continuation of simple linear regression. 
+For this model, there must be two or more independent predictors that are used to predict one dependent variable. 
+The general form of the multiple linear regression model is as follows: 
+
+
+\begin{equation}
+  Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + ... + \beta_n X_n + \epsilon
+\end{equation}
+
+In this equation, Y is an outcomes that is a continuous measurement. $\beta_0$ is the intercept, $\beta_1 X_1$ is the regression coefficent of the first independent variable. 
+$\beta_n X_n$ is the last regression coefficent for the final variable in the model.
+$\epsilon$ represents how much variation there is in our estimate for the dependent variable, or otherwise known as model error. 
+
+
+
+
 
 
 
@@ -140,6 +160,16 @@ Summary statistics for the data is as follows
 
 
 \paragraph{Application}
+
+When applying multiple linear regression to the data set, all independent variables were included in the intital model.
+The model was built using the variables TPEC, POP, TCMR, DPI, UNRATE and BSLP from the traing dataset. 
+
+
+
+
+
+
+
 
 \begin{figure}[h]
   \centering
