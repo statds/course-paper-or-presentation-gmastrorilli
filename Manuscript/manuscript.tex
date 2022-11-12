@@ -88,21 +88,26 @@ For this paper, we will quantify the relation between influencers of GDP.
 \paragraph{Data}
 %Who collected the data (source)? How was the data collected? Sampling frame? Sampling approach? What period or range does the data cover?
 
-The economic data used in this research was collected from Federal Reserve Economic Data(FRED). This is an online database that is maintained by the Research Department at the Federal Reserve Bank of St. Louis. 
+The economic data used in this research was collected from Federal Reserve Economic Data(FRED). 
+This is an online database that is maintained by the Research Department at the Federal Reserve Bank of St. Louis. 
 The variables collected from the FRED website are Gross Domestic Product (Billions of Dollars, Quarterly, Seasonally Adjusted Annual Rate), Population (Thousands, Quarterly, Not Seasonally Adjusted), Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Disposable Personal Income (Billions of Dollars, Quarterly, Seasonally Adjusted Annual), Unemployment Rate (Percent, Quarterly, Seasonally Adjusted), and Business Sector: Labor Productivity (Output per Hour) for All Employed Persons. 
 
 
 The variable Total Primary Energy Consumption (Quadrillion Btu) used in this research was collected from the U.S. Energy Information Administration website. 
 The EIA "collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment."(EIA)
-My independent variables are Population (POP), Business Sector Labor Productivity (BSLP), 10 Year Treasury Constant Maturity Rate (TCMR), Disposable Personal Income (DPI), Unemployment Rate (UNRATE), and Total Primary Energy Consumption (TPEC). The dependent variable is Gross Domestic Product (GDP).
-Observations are taken quarterly from January 1st, 1973 to July 1st, 2022. In this dataframe there are 199 observations from 7 variables with no missing values. 
-Summary statistics for the data is as follows
 
 
+In the original dataframe there are 199 observations from 7 variables with no missing values.
+Observations are complied quarterly from January 1st, 1973 to July 1st, 2022.  
+For this paper, the original dataset will be split into two datasets, a training set and a validation set. 
+This procedure is used to measure the performance of the models built. 
+The training dataset is used to fit the desired model, whereas the validation dataset is used to evaluate the fit of that desired model. 
+For this purpose, the data will be split into .8 train and .2 into validation.
+The independent variables are Population (POP), Business Sector Labor Productivity (BSLP), 10 Year Treasury Constant Maturity Rate (TCMR), Disposable Personal Income (DPI), Unemployment Rate (UNRATE), and Total Primary Energy Consumption (TPEC). 
+The dependent variable is Gross Domestic Product (GDP).
+Summary statistics for the training dataset are as follows:
 
-
-
-
+%need to fix formatting
 \begin{tabular}{ |p{2cm}||p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
   \hline
   \multicolumn{9}{|c|}{Summary} \\
@@ -117,7 +122,7 @@ Summary statistics for the data is as follows
   UNRATE & 3.6 & 5.05 & 5.867 & 6.231 & 7.3 & 12.967\\
   BSPL & 45.99 & 56.35 & 67.69 & 75.44 & 98.96\\
   \hline
- \end{tabular}
+\end{tabular}
 
 
 
@@ -126,7 +131,6 @@ Summary statistics for the data is as follows
 
 
 %What exploratory analyses are done (descriptives, visualication, etc.)?
-
 
 
 
@@ -149,11 +153,7 @@ $\beta_n X_n$ is the last regression coefficent for the final variable in the mo
 $\epsilon$ represents how much variation there is in our estimate for the dependent variable, or otherwise known as model error. 
 
 
-
-For this research, the data will be split into two datasets, a training set and a validation set. 
-This procedure is used to measure the performance of the models built. 
-The training dataset is used to fit the desired model, whereas the validation dataset is used to evaluate the fit of that desired model. 
-For this purpose, the data will be split into .8 train and .2 into validation. 
+ 
 
 
 
@@ -164,7 +164,7 @@ For this purpose, the data will be split into .8 train and .2 into validation.
 \paragraph{Application}
 
 When applying multiple linear regression to the data set, all independent variables were included in the intital model.
-The model was built using the variables TPEC, POP, TCMR, DPI, UNRATE and BSLP from the traing dataset. 
+The model was built using the variables TPEC, POP, TCMR, DPI, UNRATE and BSLP from the training dataset. 
 
 
 
