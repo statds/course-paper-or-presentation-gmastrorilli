@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  14 NOV 2022 14:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  14 NOV 2022 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -529,23 +529,28 @@ File: mod2v.pdf Graphic file (type pdf)
 <use mod2v.pdf>
 Package pdftex.def Info: mod2v.pdf  used on input line 225.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [12 <./mod1v.pdf, page is rotated 90 degrees> <./mod2v.pdf, page is rotated 90 degrees>] (./manuscript.bbl) [13] (./manuscript.aux)
+ [12 <./mod1v.pdf, page is rotated 90 degrees> <./mod2v.pdf, page is rotated 90 degrees>]
+Overfull \hbox (34.373pt too wide) detected at line 235
+[][]\OML/cmm/m/it/12 GDP \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 919\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 82242 + 50\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18851(\OML/cmm/m/it/12 TCMR\OT1/cmr/m/n/12 ) + 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20921(\OML/cmm/m/it/12 DPI\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 81\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 67410(\OML/cmm/m/it/12 UNRATE\OT1/cmr/m/n/12 ) + 28\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06281(\OML/cmm/m/it/12 BSPL\OT1/cmr/m/n/12 )
+ []
+
+(./manuscript.bbl) [13] (./manuscript.aux)
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10307 strings out of 478268
- 161999 string characters out of 5846347
+ 10308 strings out of 478268
+ 162011 string characters out of 5846347
  471676 words of memory out of 5000000
  28344 multiletter control sequences out of 15000+600000
  475285 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,611b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on manuscript.pdf (13 pages, 1884492 bytes).
+Output written on manuscript.pdf (13 pages, 1884968 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 223 PDF objects out of 1000 (max. 8388607)
+ 148 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
