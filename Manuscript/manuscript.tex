@@ -142,11 +142,11 @@ Summary statistics for the training dataset are as follows:
 
 
 \section*{Methods}
-To investigate which factors influence Gross Domestic Product, multiple linear regression will be used. 
+To investigate which factors influence Gross Domestic Product, Ordinary Least Squares Regressiion will be used. 
 Specifically, the variables Population, Business Sector Labor Productivity, 10 Year Treasury Constant Maturity Rate, Disposable Personal Income, Unemployment Rate, and Total Primary Energy Consumption will be used to predict United States Gross Domestic Product.
-Multiple linear regrssion is a continuation of simple linear regression. 
-For this model, there must be two or more independent predictors that are used to predict one dependent variable. 
-The general form of the multiple linear regression model is as follows: 
+Ordinary Least Squares Regressiion is a continuation of simple linear regression. 
+For this model, there must be one or more independent predictors that are used to predict one dependent variable. 
+The general form of the OLS regression model is as follows: 
 
 
 \begin{equation}
@@ -158,7 +158,9 @@ $\beta_n X_n$ is the last regression coefficent for the final variable in the mo
 $\epsilon$ represents how much variation there is in our estimate for the dependent variable, or otherwise known as model error. 
 
 
-OLS Regression - use python notes 
+OLS Regression Assumptions:
+- normality
+- heteroscedacity
 
  
 
@@ -170,7 +172,7 @@ OLS Regression - use python notes
 
 \section*{Application}
 
-When applying multiple linear regression to the data set, all independent variables were included in the intital model.
+When applying OLS regression to the data set, all independent variables were included in the intital model.
 Model 1 was built using the variables TPEC, POP, TCMR, DPI, UNRATE and BSLP from the training dataset. 
 The equation used for this model is as follows:
 
@@ -190,7 +192,7 @@ Summary statistics for this model are as follows:
 From the output of Model 1, it concludes that the model is useful.
 This is because the P-Value of the F-Test is less than $2.2 * 10^{-16}$.
 The variables TCMR, DPI, UNRATE and BSLP are significant in this model, whereas the variables TPEC and POP are not significantly differnt from zero at the 5\% level of significance.  
-The R-Squared value indicates that this model is a good fit since 99.73\% of the variablity in the data is explated by the model. 
+The Multiple R-Squared value indicates that this model is a good fit since 99.73\% of the variablity in the data is explated by the model. 
 Model 1 found significant relationships between the frequency of GDP and the variables TCMR, DPI, UNRATE and BSLP. 
 This is due to P-Value associated with these variables is less than .001. 
 Specifically it found a 86.87\% increase in the frequency of GDP for every 1\% increase in TCMR, a 86.99\% increase in the frequency of GDP for every 1\% increase in DPI, a -19.37\% decrease in the frequency of GDP for every 1\% increase in UNRATE, and a 84.59\% increase in the frequency of GDP for every 1\% increase in BSLP.
@@ -208,6 +210,32 @@ From the output above, it can be concluded that there is a strong linear relatio
 A weak linear relationship is show fromthe varibles TPEC and POP with GDP. 
 This output confirms that the relationship between TPEC and POP with GDP are not significant in this model. 
 
+To check the assumptions of homoscedacity a residuals vs. fitted plot is shown.
+
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale = .5]{res1}
+  \caption{This figure shows the Residuals vs. Fitted plot for Model 1}
+\end{figure}
+
+
+From this plot, the assumption of homoscedacity is questionable. 
+The residuals do not appear to be randomly scattered throughout the entire plot, and there could be a noticle pattern. 
+This warrents further invesigation. 
+
+Next, the assumption of normality will be checked using a Q-Q Plot. 
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale = .5]{norm1}
+  \caption{This figure shows the Q-Q Plot for Model 1}
+\end{figure}
+
+From this plot, the assumption of normality is met. 
+The points fall along the line at a rough 45 degree angle. 
+There is a few stray points, but not enough concern that warrents futer invesigation.
+Therefore, the normality assumption is met. 
 
 
 For the second model, the non significant variables from Model 1 are removed. 
@@ -254,7 +282,7 @@ Next, the validation data will be applied to Model 1 and Model 2.
 \section*{Discussion}
 
 
-
+- violate homoscedacty assumption
 
 \bibliography{refrences}
 \bibliographystyle{chicago}
