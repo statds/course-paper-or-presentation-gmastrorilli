@@ -1,0 +1,99 @@
+
+
+
+```{r}
+data <- as.data.frame(data)
+
+str(data)
+```
+
+
+# to split into traiing and test
+
+```{r}
+smp_size <- floor(.80 * nrow(data))
+set.seed(123)
+train_ind <- sample(seq_len(nrow(data)), size = smp_size)
+
+training <- data[train_ind, ]
+validation <- data[-train_ind, ]
+
+
+summary(training)
+```
+
+# Model 1
+```{r}
+fit1 <- lm(GDP ~ TPEC + POP + TCMR + DPI + UNRATE + BSLP, data = training)
+
+summary(fit1)
+```
+
+
+```{r}
+library(car)
+
+avPlots(fit1)
+```
+
+
+```{r}
+res1 <- resid(fit1)
+plot(fitted(fit1), res1)
+abline(0,0)
+```
+
+
+
+```{r}
+qqnorm(res1)
+qqline(res1)
+```
+
+
+
+
+## Model 2 
+```{r}
+fit2 <- lm(GDP ~  + TCMR + DPI + UNRATE + BSLP, data = training)
+
+summary(fit2)
+```
+
+
+
+```{r}
+avPlots(fit2)
+```
+```{r}
+res2 <- resid(fit2)
+plot(fitted(fit2), res2)
+abline(0,0)
+```
+
+
+
+```{r}
+qqnorm(res2)
+qqline(res2)
+```
+
+# Validation
+
+```{r}
+fit1v <- lm(GDP ~ TPEC + POP + TCMR + DPI + UNRATE + BSLP, data = validation)
+
+summary(fit1v)
+```
+
+```{r}
+fit2v <- lm(GDP ~  + TCMR + DPI + UNRATE + BSLP, data = validation)
+
+summary(fit2v)
+```
+
+
+```{r}
+AIC(fit1v, fit2v)
+```
+
