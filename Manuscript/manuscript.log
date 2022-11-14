@@ -326,4 +326,315 @@ package with kernel methods
 \c@Hfootnote=\count299
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2022/texmf-dist/tex/lat
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip60
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box101
+) (./manuscript.aux)
+\openout1 = `manuscript.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen192
+\scratchbox=\box102
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen193
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 25.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count309
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+ (./manuscript.out) (./manuscript.out)
+\@outlinefile=\write3
+\openout3 = `manuscript.out'.
+
+
+
+Package natbib Warning: Citation `bea' on page 1 undefined on input line 40.
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `brit' on page 2 undefined on input line 49.
+
+
+Package natbib Warning: Citation `divya2014study' on page 2 undefined on input line 56.
+
+
+Package natbib Warning: Citation `van2009gdp' on page 2 undefined on input line 60.
+
+
+Package natbib Warning: Citation `van2009gdp' on page 2 undefined on input line 62.
+
+
+Package natbib Warning: Citation `van2009gdp' on page 2 undefined on input line 63.
+
+[2]
+
+Package natbib Warning: Citation `szustak2021relationship' on page 3 undefined on input line 65.
+
+
+Package natbib Warning: Citation `kalyoncu2013causality' on page 3 undefined on input line 70.
+
+
+Package natbib Warning: Citation `kalyoncu2013causality' on page 3 undefined on input line 72.
+
+[3]
+
+Package natbib Warning: Citation `eia' on page 4 undefined on input line 87.
+
+
+Overfull \hbox (2.617pt too wide) in paragraph at lines 103--103
+[]|\OT1/cmr/m/n/12 Median| 
+ []
+
+
+Overfull \hbox (2.94756pt too wide) in paragraph at lines 108--109
+[]|\OT1/cmr/m/n/12 14.8384| 
+ []
+
+
+Overfull \hbox (2.94756pt too wide) in paragraph at lines 109--109
+[]|\OT1/cmr/m/n/12 11171.3| 
+ []
+
+
+Overfull \hbox (2.94756pt too wide) in paragraph at lines 109--110
+[]|\OT1/cmr/m/n/12 19586.5| 
+ []
+
+
+Overfull \hbox (0.78079pt too wide) in paragraph at lines 110--110
+[]|\OT1/cmr/m/n/12 UNRATE| 
+ []
+
+[4] [5]
+<mod1output.pdf, id=37, 614.295pt x 794.97pt>
+File: mod1output.pdf Graphic file (type pdf)
+<use mod1output.pdf>
+Package pdftex.def Info: mod1output.pdf  used on input line 140.
+(pdftex.def)             Requested size: 215.00647pt x 278.24367pt.
+<AVP1.pdf, id=38, 794.97pt x 614.295pt>
+File: AVP1.pdf Graphic file (type pdf)
+<use AVP1.pdf>
+Package pdftex.def Info: AVP1.pdf  used on input line 153.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [6 <./mod1output.pdf>]
+<res1.pdf, id=53, 794.97pt x 614.295pt>
+File: res1.pdf Graphic file (type pdf)
+<use res1.pdf>
+Package pdftex.def Info: res1.pdf  used on input line 162.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [7 <./AVP1.pdf, page is rotated 90 degrees>]
+<norm1.pdf, id=65, 794.97pt x 614.295pt>
+File: norm1.pdf Graphic file (type pdf)
+<use norm1.pdf>
+Package pdftex.def Info: norm1.pdf  used on input line 170.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [8 <./res1.pdf, page is rotated 90 degrees> <./norm1.pdf, page is rotated 90 degrees>]
+<mod2output.pdf, id=82, 794.97pt x 614.295pt>
+File: mod2output.pdf Graphic file (type pdf)
+<use mod2output.pdf>
+Package pdftex.def Info: mod2output.pdf  used on input line 187.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+<AVP2.pdf, id=83, 794.97pt x 614.295pt>
+File: AVP2.pdf Graphic file (type pdf)
+<use AVP2.pdf>
+Package pdftex.def Info: AVP2.pdf  used on input line 200.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [9 <./mod2output.pdf, page is rotated 90 degrees>]
+<res2.pdf, id=95, 794.97pt x 614.295pt>
+File: res2.pdf Graphic file (type pdf)
+<use res2.pdf>
+Package pdftex.def Info: res2.pdf  used on input line 207.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [10 <./AVP2.pdf, page is rotated 90 degrees>]
+<norm2.pdf, id=106, 794.97pt x 614.295pt>
+File: norm2.pdf Graphic file (type pdf)
+<use norm2.pdf>
+Package pdftex.def Info: norm2.pdf  used on input line 216.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [11 <./res2.pdf, page is rotated 90 degrees> <./norm2.pdf, page is rotated 90 degrees>]
+<mod1v.pdf, id=123, 794.97pt x 614.295pt>
+File: mod1v.pdf Graphic file (type pdf)
+<use mod1v.pdf>
+Package pdftex.def Info: mod1v.pdf  used on input line 228.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+<mod2v.pdf, id=124, 794.97pt x 614.295pt>
+File: mod2v.pdf Graphic file (type pdf)
+<use mod2v.pdf>
+Package pdftex.def Info: mod2v.pdf  used on input line 234.
+(pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
+ [12 <./mod1v.pdf, page is rotated 90 degrees>]
+Overfull \hbox (34.373pt too wide) detected at line 244
+[][]\OML/cmm/m/it/12 GDP \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 919\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 82242 + 50\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18851(\OML/cmm/m/it/12 TCMR\OT1/cmr/m/n/12 ) + 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20921(\OML/cmm/m/it/12 DPI\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 81\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 67410(\OML/cmm/m/it/12 UNRATE\OT1/cmr/m/n/12 ) + 28\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06281(\OML/cmm/m/it/12 BSPL\OT1/cmr/m/n/12 )
+ []
+
+[13 <./mod2v.pdf, page is rotated 90 degrees>] (./manuscript.bbl
+./manuscript.bbl:6: Missing $ inserted.
+<inserted text> 
+                $
+l.6 ... ~{\em https://www.eia.gov/about/strategic_
+                                                  plan.php}.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./manuscript.bbl:6: Extra }, or forgotten $.
+l.6 ...tps://www.eia.gov/about/strategic_plan.php}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./manuscript.bbl:7: Missing $ inserted.
+<inserted text> 
+                $
+l.7 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./manuscript.bbl:7: Missing } inserted.
+<inserted text> 
+                }
+l.7 
+    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 Administration, U. E. I. (2022).  Eia strate-gic plan 2014{2018.
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[14] (./manuscript.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package rerunfilecheck Info: File `manuscript.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 10314 strings out of 478268
+ 162074 string characters out of 5846347
+ 472340 words of memory out of 5000000
+ 28348 multiletter control sequences out of 15000+600000
+ 475592 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,8n,63p,611b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on manuscript.pdf (14 pages, 1888493 bytes).
+PDF statistics:
+ 213 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
