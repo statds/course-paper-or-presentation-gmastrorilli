@@ -3,50 +3,48 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: manuscript.aux
 The style file: chicago.bst
 Database file #1: refrences.bib
-Warning--no journal in eia
-Warning--page numbers missing in eia
 Warning--no journal in brit
 Warning--page numbers missing in brit
 Warning--page numbers missing in bea
-You've used 7 entries,
+You've used 6 entries,
             2861 wiz_defined-function locations,
-            655 strings with 5896 characters,
-and the built_in function-call counts, 4270 in all, are:
-= -- 360
-> -- 278
+            651 strings with 5783 characters,
+and the built_in function-call counts, 3782 in all, are:
+= -- 319
+> -- 252
 < -- 0
-+ -- 82
-- -- 96
-* -- 367
-:= -- 798
-add.period$ -- 21
-call.type$ -- 7
-change.case$ -- 47
-chr.to.int$ -- 7
-cite$ -- 12
-duplicate$ -- 117
-empty$ -- 271
-format.name$ -- 108
-if$ -- 772
++ -- 76
+- -- 86
+* -- 333
+:= -- 701
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 41
+chr.to.int$ -- 6
+cite$ -- 9
+duplicate$ -- 102
+empty$ -- 238
+format.name$ -- 98
+if$ -- 687
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 7
-newline$ -- 38
-num.names$ -- 70
-pop$ -- 26
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 60
+pop$ -- 23
 preamble$ -- 1
-purify$ -- 89
+purify$ -- 77
 quote$ -- 0
-skip$ -- 125
+skip$ -- 108
 stack$ -- 0
-substring$ -- 227
-swap$ -- 36
+substring$ -- 207
+swap$ -- 32
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 140
-warning$ -- 5
-while$ -- 69
+type$ -- 120
+warning$ -- 3
+while$ -- 59
 width$ -- 0
-write$ -- 93
-(There were 5 warnings)
+write$ -- 80
+(There were 3 warnings)
