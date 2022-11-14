@@ -602,16 +602,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT ./manuscript.out
-INPUT manuscript.out
-INPUT ./manuscript.out
-INPUT manuscript.out
-INPUT ./manuscript.out
-INPUT manuscript.out
-INPUT ./manuscript.out
-INPUT manuscript.out
-INPUT ./manuscript.out
-INPUT ./manuscript.out
 OUTPUT manuscript.out
 OUTPUT manuscript.pdf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
@@ -675,11 +665,6 @@ INPUT ./mod2v.pdf
 INPUT mod2v.pdf
 INPUT ./mod2v.pdf
 INPUT ./mod2v.pdf
-INPUT ./manuscript.bbl
-INPUT manuscript.bbl
-INPUT ./manuscript.bbl
-INPUT manuscript.bbl
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT manuscript.aux
 INPUT ./manuscript.out
 INPUT ./manuscript.out
@@ -691,4 +676,3 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb

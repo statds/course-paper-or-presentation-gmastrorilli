@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  14 NOV 2022 18:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  14 NOV 2022 18:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -440,7 +440,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 25.
 LaTeX Info: Redefining \pageref on input line 25.
 LaTeX Info: Redefining \nameref on input line 25.
- (./manuscript.out) (./manuscript.out)
 \@outlinefile=\write3
 \openout3 = `manuscript.out'.
 
@@ -567,74 +566,34 @@ Overfull \hbox (34.373pt too wide) detected at line 244
 [][]\OML/cmm/m/it/12 GDP \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 919\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 82242 + 50\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18851(\OML/cmm/m/it/12 TCMR\OT1/cmr/m/n/12 ) + 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20921(\OML/cmm/m/it/12 DPI\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 81\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 67410(\OML/cmm/m/it/12 UNRATE\OT1/cmr/m/n/12 ) + 28\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06281(\OML/cmm/m/it/12 BSPL\OT1/cmr/m/n/12 )
  []
 
-[13 <./mod2v.pdf, page is rotated 90 degrees>] (./manuscript.bbl
-./manuscript.bbl:6: Missing $ inserted.
-<inserted text> 
-                $
-l.6 ... ~{\em https://www.eia.gov/about/strategic_
-                                                  plan.php}.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./manuscript.bbl:6: Extra }, or forgotten $.
-l.6 ...tps://www.eia.gov/about/strategic_plan.php}
-                                                  .
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./manuscript.bbl:7: Missing $ inserted.
-<inserted text> 
-                $
-l.7 
-    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./manuscript.bbl:7: Missing } inserted.
-<inserted text> 
-                }
-l.7 
-    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
-[]\OT1/cmr/m/n/12 Administration, U. E. I. (2022).  Eia strate-gic plan 2014{2018.
- []
-
-)
+[13 <./mod2v.pdf, page is rotated 90 degrees>]
+No file manuscript.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[14] (./manuscript.aux
+[14] (./manuscript.aux)
 
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
+Package rerunfilecheck Warning: File `manuscript.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-)
-Package rerunfilecheck Info: File `manuscript.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: Checksums for `manuscript.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10314 strings out of 478268
- 162074 string characters out of 5846347
- 472340 words of memory out of 5000000
- 28348 multiletter control sequences out of 15000+600000
- 475592 words of font info for 50 fonts, out of 8000000 for 9000
+ 10273 strings out of 478268
+ 161406 string characters out of 5846347
+ 472110 words of memory out of 5000000
+ 28322 multiletter control sequences out of 15000+600000
+ 475245 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,611b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on manuscript.pdf (14 pages, 1888493 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on manuscript.pdf (14 pages, 1868922 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 196 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
