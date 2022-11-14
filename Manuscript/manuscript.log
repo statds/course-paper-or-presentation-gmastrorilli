@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  14 NOV 2022 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.29)  14 NOV 2022 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -475,82 +475,81 @@ Overfull \hbox (0.78079pt too wide) in paragraph at lines 111--111
 <mod1output.pdf, id=61, 614.295pt x 794.97pt>
 File: mod1output.pdf Graphic file (type pdf)
 <use mod1output.pdf>
-Package pdftex.def Info: mod1output.pdf  used on input line 149.
+Package pdftex.def Info: mod1output.pdf  used on input line 141.
 (pdftex.def)             Requested size: 215.00647pt x 278.24367pt.
- [6]
-<AVP1.pdf, id=68, 794.97pt x 614.295pt>
+<AVP1.pdf, id=62, 794.97pt x 614.295pt>
 File: AVP1.pdf Graphic file (type pdf)
 <use AVP1.pdf>
-Package pdftex.def Info: AVP1.pdf  used on input line 162.
+Package pdftex.def Info: AVP1.pdf  used on input line 154.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [7 <./mod1output.pdf>]
-<res1.pdf, id=82, 794.97pt x 614.295pt>
+ [6 <./mod1output.pdf>]
+<res1.pdf, id=77, 794.97pt x 614.295pt>
 File: res1.pdf Graphic file (type pdf)
 <use res1.pdf>
-Package pdftex.def Info: res1.pdf  used on input line 171.
+Package pdftex.def Info: res1.pdf  used on input line 163.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
-<norm1.pdf, id=83, 794.97pt x 614.295pt>
+ [7 <./AVP1.pdf, page is rotated 90 degrees>]
+<norm1.pdf, id=89, 794.97pt x 614.295pt>
 File: norm1.pdf Graphic file (type pdf)
 <use norm1.pdf>
-Package pdftex.def Info: norm1.pdf  used on input line 179.
+Package pdftex.def Info: norm1.pdf  used on input line 171.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [8 <./AVP1.pdf, page is rotated 90 degrees> <./res1.pdf, page is rotated 90 degrees>]
-<mod2output.pdf, id=100, 794.97pt x 614.295pt>
+ [8 <./res1.pdf, page is rotated 90 degrees> <./norm1.pdf, page is rotated 90 degrees>]
+<mod2output.pdf, id=106, 794.97pt x 614.295pt>
 File: mod2output.pdf Graphic file (type pdf)
 <use mod2output.pdf>
-Package pdftex.def Info: mod2output.pdf  used on input line 196.
+Package pdftex.def Info: mod2output.pdf  used on input line 188.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [9 <./norm1.pdf, page is rotated 90 degrees>]
-<AVP2.pdf, id=112, 794.97pt x 614.295pt>
+<AVP2.pdf, id=107, 794.97pt x 614.295pt>
 File: AVP2.pdf Graphic file (type pdf)
 <use AVP2.pdf>
-Package pdftex.def Info: AVP2.pdf  used on input line 209.
+Package pdftex.def Info: AVP2.pdf  used on input line 201.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [10 <./mod2output.pdf, page is rotated 90 degrees>]
-<res2.pdf, id=123, 794.97pt x 614.295pt>
+ [9 <./mod2output.pdf, page is rotated 90 degrees>]
+<res2.pdf, id=119, 794.97pt x 614.295pt>
 File: res2.pdf Graphic file (type pdf)
 <use res2.pdf>
-Package pdftex.def Info: res2.pdf  used on input line 216.
+Package pdftex.def Info: res2.pdf  used on input line 208.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
-<norm2.pdf, id=124, 794.97pt x 614.295pt>
+ [10 <./AVP2.pdf, page is rotated 90 degrees>]
+<norm2.pdf, id=130, 794.97pt x 614.295pt>
 File: norm2.pdf Graphic file (type pdf)
 <use norm2.pdf>
-Package pdftex.def Info: norm2.pdf  used on input line 225.
+Package pdftex.def Info: norm2.pdf  used on input line 217.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [11 <./AVP2.pdf, page is rotated 90 degrees> <./res2.pdf, page is rotated 90 degrees>]
-<mod1v.pdf, id=141, 794.97pt x 614.295pt>
+ [11 <./res2.pdf, page is rotated 90 degrees> <./norm2.pdf, page is rotated 90 degrees>]
+<mod1v.pdf, id=147, 794.97pt x 614.295pt>
 File: mod1v.pdf Graphic file (type pdf)
 <use mod1v.pdf>
-Package pdftex.def Info: mod1v.pdf  used on input line 237.
+Package pdftex.def Info: mod1v.pdf  used on input line 229.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [12 <./norm2.pdf, page is rotated 90 degrees>]
-<mod2v.pdf, id=152, 794.97pt x 614.295pt>
+<mod2v.pdf, id=148, 794.97pt x 614.295pt>
 File: mod2v.pdf Graphic file (type pdf)
 <use mod2v.pdf>
-Package pdftex.def Info: mod2v.pdf  used on input line 243.
+Package pdftex.def Info: mod2v.pdf  used on input line 235.
 (pdftex.def)             Requested size: 278.24367pt x 215.00647pt.
- [13 <./mod1v.pdf, page is rotated 90 degrees> <./mod2v.pdf, page is rotated 90 degrees>]
-Overfull \hbox (34.373pt too wide) detected at line 253
+ [12 <./mod1v.pdf, page is rotated 90 degrees>]
+Overfull \hbox (34.373pt too wide) detected at line 245
 [][]\OML/cmm/m/it/12 GDP \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 919\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 82242 + 50\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18851(\OML/cmm/m/it/12 TCMR\OT1/cmr/m/n/12 ) + 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20921(\OML/cmm/m/it/12 DPI\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 81\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 67410(\OML/cmm/m/it/12 UNRATE\OT1/cmr/m/n/12 ) + 28\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06281(\OML/cmm/m/it/12 BSPL\OT1/cmr/m/n/12 )
  []
 
-(./manuscript.bbl [14]) [15] (./manuscript.aux)
+[13 <./mod2v.pdf, page is rotated 90 degrees>] (./manuscript.bbl) [14] (./manuscript.aux)
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10310 strings out of 478268
- 162025 string characters out of 5846347
+ 10309 strings out of 478268
+ 162018 string characters out of 5846347
  471676 words of memory out of 5000000
  28344 multiletter control sequences out of 15000+600000
  475285 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,611b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,63p,611b,360s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on manuscript.pdf (15 pages, 1888120 bytes).
+Output written on manuscript.pdf (14 pages, 1887659 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
