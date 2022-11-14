@@ -114,8 +114,7 @@ OLS Regression Assumptions:
 - normality
 - heteroscedacity
 
-
-% explain VIF and AV plots 
+% explain AV Plots and AIC test
 AV Plors will also be ised in this analysis to 
 "A strong linear relationship in the added variable plot indicates the increased importance of the contribution of X to the model already containing the other predictors.
 
@@ -226,6 +225,21 @@ The summary statistics for Model 2 application with Validation data are as follo
   \includegraphics[scale = .35]{mod2v}
   \caption{This figure shows the summary statistics for Model 2 application to the validation dataset.}
 \end{figure}
+
+Next, and AIC test will be applied to Model 1 and Model 2 application to validation data. 
+
+\begin{tabularx}{0.8\textwidth} { 
+  | >{\raggedright\arraybackslash}X 
+  | >{\centering\arraybackslash}X 
+  | >{\raggedleft\arraybackslash}X | }
+ \hline
+   & DF & AIC \\
+ \hline
+ Model 1  & 8  & 559.5405  \\
+ \hline
+ Model 2  & 6  & 557.1234  \\
+\hline
+\end{tabularx}
 
 
 \section*{Discussion}
