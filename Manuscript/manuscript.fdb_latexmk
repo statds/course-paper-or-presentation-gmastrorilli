@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex manuscript"] 1670516594 "manuscript.aux" "manuscript.bbl" "manuscript" 1670516714
+["bibtex manuscript"] 1670516594 "manuscript.aux" "manuscript.bbl" "manuscript" 1670539734
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "manuscript.aux" 1670516714 3296 fa2d247db75a38ea0bfab12ffbacc7ab "pdflatex"
+  "manuscript.aux" 1670539733 3296 fa2d247db75a38ea0bfab12ffbacc7ab "pdflatex"
   "refrences.bib" 1670516545 2013 be77e311448b17a9f6e0fa59a5f672ec ""
   (generated)
   "manuscript.bbl"
   "manuscript.blg"
-["pdflatex"] 1670516712 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1670516714
-  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" 1670516712 17991 297753771a23f11bb7191b4f48421ead ""
+["pdflatex"] 1670539731 "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1670539734
+  "/Users/ginamastrorilli/Desktop/stat/course-paper-or-presentation-gmastrorilli/Manuscript/course-paper-or-presentation-gmastrorilli/Manuscript/manuscript.tex" 1670539730 18001 973d0d8970a10a09b6eee06300075431 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -105,10 +105,10 @@
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "AVP1.pdf" 1670516545 268575 046a07b05ebc14c4a88fe4a7ddcae3dd ""
   "AVP2.pdf" 1670516545 257751 854e41f0cc9b9b2791e000804a54f923 ""
-  "manuscript.aux" 1670516714 3296 fa2d247db75a38ea0bfab12ffbacc7ab "pdflatex"
+  "manuscript.aux" 1670539733 3296 fa2d247db75a38ea0bfab12ffbacc7ab "pdflatex"
   "manuscript.bbl" 1670516594 1735 1fce07ee962267477edd01adf07a87d0 "bibtex manuscript"
   "manuscript.out" 0 -1 0 "pdflatex"
-  "manuscript.tex" 1670516712 17991 297753771a23f11bb7191b4f48421ead ""
+  "manuscript.tex" 1670539730 18001 973d0d8970a10a09b6eee06300075431 ""
   "mod1output.pdf" 1670516545 147355 f07fea5867774762d7cba8743ca6f954 ""
   "mod1v.pdf" 1670516545 151883 bbbbec4114174e1b4582f96ad1da812a ""
   "mod2output.pdf" 1670516545 287704 0dd220eb97ae5367e1a2b1033fca4ffa ""
