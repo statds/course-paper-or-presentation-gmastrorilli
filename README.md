@@ -1,0 +1,5 @@
+## Influences of GDP in the United States
+
+Gross Domestic Product is one of the main factors that goes into determining a countries economic growth and is the total monetary value of all goods and services that are produced in a country. Calculating GDP is a tool that is taught around the world in macroeconomics courses, and is vital for understanding a countries economy. There has been a great deal of research into what factors impact GDP. These factors studied are based off each author's interest, and can vary based on what data is used. 
+
+This project uses Ordinary Least Squares Regression to analyze the relationship between Population, Business Sector Labor Productivity, 10 Year Treasury Constant Maturity Rate, Disposable Personal Income, Unemployment Rate, and Total Primary Energy Consumption on United States Gross Domestic Product. The main variable of interest in this study is Total Primary Energy Consumption. Energy is such a vital part of society in the US, and this paper aims to discover if energy consumption has a significant relationship with Gross Domestic Product. 
